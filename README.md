@@ -11,6 +11,7 @@ To use, type `[prefix]capture` and a modal will appear to save the file.
 
 # Installation
 Clone this repository to your Powercord install's plugins folder
+
 ```git clone https://github.com/NouNouDz/Chat-Keeper```
 
 # Issues and Suggestions
