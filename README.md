@@ -16,4 +16,4 @@ Clone this repository to your Powercord install's plugins folder
 
 # Issues and Suggestions
 Feel free to open an issue on this repo,
-Or suggest an idea by contacting the creator from [abdennour.me](https://abdennour.mez).
+Or suggest an idea by contacting the creator from [abdennour.me](https://abdennour.me/).
