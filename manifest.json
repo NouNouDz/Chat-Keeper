@@ -1,0 +1,8 @@
+{
+  "name": "Chat Keeper",
+  "version": "1.0.0", 
+  "description": "Save the chat you don't want to lose !",
+  "author": "NouNou#4144",
+  "license": "MIT",
+  "nsfw": false
+}
